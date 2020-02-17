@@ -1,0 +1,31 @@
+Staten Island University
+SIU1044
+Salvatore Vulcano
+Corporate Finance
+F
+2.5
+SIU8064
+Joseph Gatto
+Veterinary Science
+S
+2.2
+SIU9987
+Brian Quinn
+Chemistry
+S
+2.1
+SIU7018
+James Murray
+English
+S
+3.4
+SIU2919
+Christine Morris
+Art
+F
+3.8
+SIU3698
+Cha Deberry
+Theater
+J
+3.5
