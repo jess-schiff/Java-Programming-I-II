@@ -1,0 +1,2 @@
+This is an assignement from my first semester Java class. It reads the input from a provided .txt file, 
+sets the info to various students, and then prints out the student's information.
