@@ -1,0 +1,2 @@
+This is from an assignment for my first semester Java programming class. It reads the info from a .txt file for serveral
+"baseball players" and then assigns that information to an array. 
